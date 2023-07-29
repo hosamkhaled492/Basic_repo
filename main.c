@@ -5,7 +5,10 @@ int main()
 	while(1)
 	{
 		/* develop version */
-		char master =88;
+
+=======
+		char develop =12;
+>>>>>>> develop
 		int z=x+1;
 		int y = z+x;
 		/*develop version 2*/
